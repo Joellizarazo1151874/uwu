@@ -1,0 +1,83 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: arial, helvetica, sans-serif;
+    background-image: url(https://i.pinimg.com/originals/5f/53/20/5f532026d6c7832aa516c3f578dcc68b.jpg);
+    font-size: 25px;
+}
+
+.pacifico{
+    font-family: 'pacifico', cursive;
+}
+
+.text-green{
+    color: black;
+    font-size: 30px;
+    padding-bottom: 1px;
+}
+
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.main-container{
+    min-height: 100vh;
+}
+
+h5{
+    padding-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.product img{
+    width: 96%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.card2{
+    padding-top: 30px;
+    border-radius: 4px;
+    background-color: white;
+}
+
+.card{
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 2px 4px 5px 5px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    padding-bottom: 10px;
+}
+
+.card p{
+    padding-top: 10px;
+}
+
+.article{
+
+    border-bottom: 1px solid #fff;
+}
+
+.principal{
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.treeD{
+    text-shadow: 1px 3px 0px #6b251d, 1px 8px 3px rgb(171,168,168);
+}
+
+.delay-1{
+    animation-delay: 0.1s;
+    position: relative;
+    z-index: 10;
+}
